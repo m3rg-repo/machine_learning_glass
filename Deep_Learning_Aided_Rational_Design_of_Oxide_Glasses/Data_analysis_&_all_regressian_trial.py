@@ -1,18 +1,14 @@
 import sys
-sys.path.append('/Users/sureshbishnoi/Owncloud/python_packages')
 import pandas as pd
 import numpy as np
-%matplotlib inline
 import matplotlib.pyplot as plt
 import pickle
 
 from ml import MLmodule
-from shadow.plot import *
-from shadow import plot
+from plot import *
 import importlib
-importlib.reload(plot)
-importlib.reload(MLmodule1)
-S = MLmodule1.sess
+
+S = MLmodule.sess
 
 from sklearn.linear_model import ARDRegression, LinearRegression, Lasso, Ridge, Lars
 from sklearn.neural_network import MLPRegressor as nn

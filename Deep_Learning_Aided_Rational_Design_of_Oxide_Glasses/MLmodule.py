@@ -3,9 +3,8 @@ import numpy as np
 import pickle
 
 import sys
-sys.path.append('/Users/sureshbishnoi/Owncloud/python_packages')
 
-from shadow.plot import *
+from plot import *
 import sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error as mse
@@ -81,7 +80,7 @@ class sess():
 
 
 
-    def train(self,model=None,rn_iter=10,xg_model = False,*args,**kwargs):
+    def train(self,model=None,rn_iter=10,*args,**kwargs):
         self.r2_score_test = 0
         self.r2_score_train = 0
         self.mse_previous = 1000000000000
@@ -89,11 +88,7 @@ class sess():
         if 1:
             for i in range(rn_iter):
                 np.random.seed(1+i*1231)
-                if xg_model:
-                    self.model = xgb.XGBRegressor(objective="reg:linear")
-                else:
-                    self.model = model(*args,**kwargs)
-
+                self.model = model(*args,**kwargs)
                 self.x_train, self.x_test, self.y_train, self.y_test = train_test_split(self.features, self.properties, test_size=0.2,)
                 kf = KFold(n_splits=5,shuffle=True, random_state = np.random.seed(1+i*1231))
                 for train_index, val_index in kf.split(self.x_train):

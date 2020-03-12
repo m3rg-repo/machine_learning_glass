@@ -1,18 +1,14 @@
 import sys
-sys.path.append('/Users/sureshbishnoi/Owncloud/python_packages')
 import pandas as pd
 import numpy as np
-%matplotlib inline
 import matplotlib.pyplot as plt
 import pickle
 
 from ml import MLmodule
-from shadow.plot import *
-from shadow import plot
+from plot import *
 import importlib
-importlib.reload(plot)
-importlib.reload(MLmodule1)
-S = MLmodule1.sess
+
+S = MLmodule.sess
 
 from sklearn.linear_model import ARDRegression, LinearRegression, Lasso, Ridge, Lars
 from sklearn.neural_network import MLPRegressor as nn
@@ -42,7 +38,3 @@ T2.properties = y
 T2.train(model = LinearRegression,rn_iter = 30)
 T2.plot1(label = "density (g/cm$^3$)",inter = 2,range = [0,10],set_range = True,model_name = 'LinearRegression')
 T2.plot2(label = "density *(g/cm$^3$)",inter = 2,range = [0,10],set_range = True,den_scale_bool=True,den_scale = 2,model_name = 'LinearRegression')
-
-T2.train(xg_model = True,rn_iter = 1)
-T2.plot1(label = "density (g/cm$^3$)",inter = 2,range = [0,10],set_range = True,model_name = 'xg_boost')
-T2.plot2(label = "density *(g/cm$^3$)",inter = 2,range = [0,10],set_range = True,den_scale_bool=True,den_scale = 2,model_name = 'xg_boost')

@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 from torch.utils.data import TensorDataset, DataLoader
-from shadow.plot import panel,xlabel,ylabel,legend_on,set_things
+from plot import panel,xlabel,ylabel,legend_on,set_things
 
 class DropoutNormNet(nn.Module):
     def __init__(self,D_in,D_out,layers=[1],dropout_rate=[0.2],batch_norm=True,dropout=True):

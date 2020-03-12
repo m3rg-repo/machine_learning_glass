@@ -36,7 +36,7 @@ try:
     sys.stdout = log_file
     print("========================\n\n"+"".join(Prop)+"\n\n========================")
 
-    Pyggi_columns = [1, 2, 3, 4, 5, 6, 7, 8, 9, 23, 24, 25,31, 35, 36, 37, 39, 40, 53, 55, 58, 60, 61, 71,75, 79, 81, 82, 83, 84, 92, 93, 101, 111, 208,218, 268]
+    _columns = [1, 2, 3, 4, 5, 6, 7, 8, 9, 23, 24, 25,31, 35, 36, 37, 39, 40, 53, 55, 58, 60, 61, 71,75, 79, 81, 82, 83, 84, 92, 93, 101, 111, 208,218, 268]
 
     if not sys.warnoptions:
         import warnings
@@ -51,7 +51,7 @@ try:
             f.close()
     else:
         S1 = ML.sess()
-        S1.data_loader(features = Pyggi_columns,properties = Prop )
+        S1.data_loader(features = _columns,properties = Prop )
         with open(data_path+Prop[0].replace(' ','_')+'.pickle','wb+') as f:
             pickle.dump(S1,f)
             f.close()
