@@ -136,8 +136,10 @@ for r in np.arange(0.05,0.3,0.05):
     np.savetxt(plot_+'/{}_{}_{:.3f}'.format(P2[:-1],P1[:-1],r)+'.csv',data,header='{}, {}'.format(P2[:-1],P1[:-1]),comments='',delimiter=',',fmt='%.3f')
 
 yticks([0,50,100,150,200])
+
 xlim(limx)
 ylim(limy)
+
 ylabel("Young's modulus, E (GPa)")
 xlabel("Glass transition temperature, T$_g$ (k)")
 ax.set_axisbelow(False)
