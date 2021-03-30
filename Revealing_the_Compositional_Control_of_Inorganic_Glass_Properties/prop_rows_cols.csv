@@ -1,0 +1,26 @@
+PROP,ROWS,COLS,ypos,NAME,CLASS
+Annealing_Point,13318,44,0.1,Annealing point,Physical
+Crystallization_temp,10904,88,0.15,Crystallization temperature,Physical
+Softening_point,20219,70,0,Softening point,Physical
+Strain_Point_14.5,15065,44,0,Strain point,Physical
+T_liquidus,50054,122,0.15,Liquidus temperature,Physical
+T_Littleton,17336,58,0.05,Littleton point,Physical
+Tg,102148,198,0.15,T$_g$,Physical
+Thermal_conductivity,1771,29,0.15,Thermal conductivity,Physical
+Thermal_shock_resistance,928,21,0.15,Thermal shock resistance,Physical
+TEC,92302,115,0.2,TEC,Physical
+Bulk_modulus,1499,25,0.15,Bulk modulus,Mechanical
+Compressive,357,16,0,Compressive strength,Mechanical
+Density,112524,180,0.1,Density,Mechanical
+Hardness,14579,92,0.2,Hardness,Mechanical
+SM,8610,61,0.1,Shear modulus,Mechanical
+Tensile,286,14,0.05,Tensile strength,Mechanical
+YM,21489,69,0.2,Young's modulus,Mechanical
+Abbe_number,37448,80,0,Abbe number,Optical
+Refractive_index,81887,123,0,Refractive index,Optical
+Transmittance_IR,843,17,0.15,IR transmittance,Optical
+Transmittance_solar,2669,28,0.15,Solar transmittance,Optical
+Transmittance_Visible,2551,36,0.5,Visible transmittance,Optical
+TUV,4223,44,0.5,UV transmittance,Optical
+Dielectric_constant,5161,41,0.1,Dielectric constant,Electrical
+Electrical_conduct_at_RT,1874,38,0.1,Electrical conductivity,Electrical
