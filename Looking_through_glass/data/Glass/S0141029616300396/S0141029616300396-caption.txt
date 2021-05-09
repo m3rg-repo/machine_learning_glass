@@ -1,0 +1,21 @@
+Fig. 1-S0141029616300396,2,Deformation modes during the cold bending process (a) undeformed; (b) mode 1 deformation; (c) mode 2 deformation (adapted from [29]).
+Fig. 2-S0141029616300396,2,Cold bending set-up (a) plan view and instrumentation; (b) experimental set-up.
+Fig. 3-S0141029616300396,2,Boundary conditions: (a) Case CS: clamped supports; (b) Case PS: pin supports; (c) Case RS: roller supports.
+Fig. 4-S0141029616300396,2,Numerical set-up.
+Fig. 5-S0141029616300396,2,(a) Load P vs. centre deflection; δE;z; curves for case CS; PS & RC (exp & num data); (b) close-up of (a) for Case CS & PS and; (c) load P vs. applied displacement; δAC;z; curves for case CS; PS & RS (numerical data are not shown for clarity).
+Fig. 6-S0141029616300396,2,Initial and deformed shape: (a) and (b) for case CS and; (c) and (d) for case RS.
+Fig. 7-S0141029616300396,2,Experimental results showing the support and load axis profile at 100N load increments for: (a) and (b) case CS; (c) and (d) case PS and; (e) and (f) case RS.
+Fig. 8-S0141029616300396,2,Cold bending distortion: (a) distorted reflection of zebra board on cold bent glass and; (b) cold bending distortion in the numerical model: (i) top view and; (ii) side view (exaggerated 40 times vertically).
+Fig. 9-S0141029616300396,2,Experimental surface stress results in the direction of the support axis for: (a) the support axis (case CS) in loading steps of 100N; σsd; (b) the centre of the plate; σsd;E; vs. the applied load; (c) the centre of the plate; σsd;E; vs. the centre deflection and; (d) point S1 (Fig. 2a); σsd;S1; vs. the applied load.
+Fig. 10-S0141029616300396,2,(a) Cold bending distortion amplitude with increasing load for Case CS & PS (experimental and numerical data) and; (b) experimental curvature results of the edges of the glass plate.
+Fig. 11-S0141029616300396,2,Cross-sectional strain for point S1 along: (a) the direction of the support axis and; (b) along the direction of the load axis.
+Fig. 12-S0141029616300396,2,Axial force along the support axis for points S1 and E during the testing.
+Fig. 13-S0141029616300396,2,Amplitude of the cold bending distortion for plates of different: (a) thickness and dimensions of 1000×1000mm and; (b) length ratio; LR; and thickness of 5mm (numerical data).
+Fig. 14-S0141029616300396,2,Influence of aspect ratio for 5mm thick plates: (a) amplitude of the cold bending distortion and (b) applied displacement at the onset of the cold bending distortion (numerical data).
+Fig. 15-S0141029616300396,2,Influence of the orientation of the plate on the profiles of the support and the load axes. (a) and (b) Ver testing for Case RS; (c) and (d) Ver testing for case CS; (e) and (f) Hor-reverse testing for Case RS; (g) and (h) Hor-reverse testing for Case CS (numerical data).
+Fig. 16-S0141029616300396,2,Deformed plate shape for Case RS in Hor-reverse testing: (a) under self weight prior to the cold bending; (b) after snap-through instability occurred at a corner displacement of 15mm; (c) after the cold bending distortion occurred at a corner displacement of 63mm (exaggerated 30 times vertically).
+Fig. 17-S0141029616300396,2,Cold bending distortion amplitude for different plate orientations of Case CS.
+Fig. 18-S0141029616300396,2,Influence of the number of load points on the amplitude of the cold bending distortion.
+Fig. A1-S0141029616300396,2,Optical quality evaluation procedure for cold bent monolithic glass plates.
+Fig. A2-S0141029616300396,2,Applied displacement at the onset of the cold bending distortion for plates of different thickness and: (a) aspect ratio AR and; (b) length ratio LR (numerical data).
+Fig. A3-S0141029616300396,2,Cold bending distortion amplitude for plates of different thickness and: (a)–(c) aspect ratio AR and; (d)–(f) length ratio for: (a and d) 50mm; (b and e) 100mm and; (c and f) 150mm of applied displacement (numerical data).

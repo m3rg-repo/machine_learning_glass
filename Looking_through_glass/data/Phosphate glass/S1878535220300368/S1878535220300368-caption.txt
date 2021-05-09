@@ -1,0 +1,13 @@
+Fig. 1-S1878535220300368,2,FT-IR spectra of pure and L-phenylalanine doped ADP crystals.
+Fig. 2-S1878535220300368,2,UV–Visible transmittance spectra of pure and L-phenylalanine doped ADP crystals.
+Fig. 3-S1878535220300368,2,The tauc plot of pure and L-phyenylalanine doped ADP crystals.
+Fig. 4-S1878535220300368,2,Refractive index spectra of pure and L-phenylalanine doped ADP crystals.
+Fig. 5-S1878535220300368,2,(a-d). Refractive index dispersion plots for pure and L-phenylalanine doped ADP crystal.
+Fig. 6-S1878535220300368,2,(a-d). Photoconductivity spectra of pure and L-phenylalanine doped ADP crystal.
+Fig. 7-S1878535220300368,2,Illustration of negative photoconductivity.
+Fig. 8-S1878535220300368,2,Capacitance versus temperature of pure and L-phenylalanine doped ADP crystals at ω = 100 rad s−1.
+Fig. 9-S1878535220300368,2,Conductance versus temperature of pure and L-phenylalanine doped ADP crystals at ω = 100 rad s−1.
+Fig. 10a-S1878535220300368,2,Z-scan spectra of pure ADP crystal.
+Fig. 10b-S1878535220300368,2,Z-scan spectra of 0.4 wt% L-phenylalanine doped ADP crystal.
+Fig. 10c-S1878535220300368,2,Z-scan spectra of 0.6 wt% L-phenylalanine doped ADP crystal.
+Fig. 10d-S1878535220300368,2,Z-scan spectra of 0.8 wt% L-phenylalanine doped ADP crystal.

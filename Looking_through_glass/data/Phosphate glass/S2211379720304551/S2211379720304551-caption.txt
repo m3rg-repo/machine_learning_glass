@@ -1,0 +1,19 @@
+Fig. 1-S2211379720304551,2,The XRD patterns of the prepared samples.
+Fig. 2-S2211379720304551,2,The Raman spectra of the proposed glass-ceramic nanocomposites.
+Fig. 3-S2211379720304551,2,The FTIR spectra of the prepared glass-ceramic nanocomposites.
+Fig. 4-S2211379720304551,2,(a) Low magnification TEM image for GCA0.5 sample (Inset: the mean crystallite size distribution); (b) HRTEM image of the HGCA0.8 sample (Insets: the corresponding IFFT pattern (top) and LFP (bottom)).
+Fig. 5-S2211379720304551,2,The EDX elemental maps of the HGCA0.8 nanocomposite.
+Fig. 6-S2211379720304551,2,The impedance and dielectric response of the HGCA0.0; HGCA0.6 and HGCA0.8 glass-ceramic nanocomposites (a) the Nyquist plots; (b) the frequency-dependent σAc; (c) ε′ and (d) ε″.
+Fig. 7-S2211379720304551,2,The transmittance (line spectra) and reflectance (dots spectra) of the HGCA0.8 nanocomposite. Inset: the physical appearance of the actual samples under sunlight.
+Fig. 8-S2211379720304551,2,The absorption spectra of the HGCA0.8 nanocomposite in the (a) visible and (b) IR region (Inset: LSPR bands of the Ag NPs existed in the GCA0.5 nanocomposite prepared without Ho3+ that was fitted to the Gaussian-Lorentzian cross function).
+Fig. 9-S2211379720304551,2,The absorption spectra of the studied nanocomposites after subtracted from the HGCA0.0 sample contribution.
+Fig. 10-S2211379720304551,2,The optical band gap energies of the studied 4 nanocomposites (cyan colour: Tauc’ method and maroon color: ASF’ method). (For interpretation of the references to color in this figure legend; the reader is referred to the web version of this article.)
+Fig. 11-S2211379720304551,2,The refractive indices of the 4 glass-ceramics determined from the values of Eg (Tauc′ Eg: blue columns. ASF′ Eg: yellow columns). (For interpretation of the references to color in this figure legend; the reader is referred to the web version of this article.)
+Fig. 12-S2211379720304551,2,The determination of the Urbach energy of the prepared of the prepared nanocomposites (Inset: Ag NPs content dependent Urbach energy).
+Fig. 13-S2211379720304551,2,The PL excitation spectra of the HGCA0.8 nanocomposite.
+Fig. 14-S2211379720304551,2,The PL emission spectra of the prepared glass-ceramics.
+Fig. 15-S2211379720304551,2,The PL peak intensity against Ho3+ emission transitions of the nanocomposites.
+Fig. 16-S2211379720304551,2,The energy level scheme of the Ho3+ depicting the excitation; emission and some possible energy transfer mechanisms of the Ho3+ positioned in the proximity of the Ag NPs inside the host network. NR: non-radiative transitions; MR: multi-phonon relaxations; CR: cross relaxations.
+Fig. 17-S2211379720304551,2,The values of βR (%) for the three PL emissions of the HGCA0.8 nanocomposite when compared with other reports.
+Fig. 18-S2211379720304551,2,The values of σpE·×10-21cm2 for the three PL emissions of the HGCA0.8 glass-ceramic compared to other reported works.
+Fig. 19-S2211379720304551,2,Measured luminescence decay curve at 545 nm (5F4 → 5I8) and 656 nm (5F5 → 5I8) for HO3+.

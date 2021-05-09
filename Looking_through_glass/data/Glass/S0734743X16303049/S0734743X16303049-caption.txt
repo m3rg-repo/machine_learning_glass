@@ -1,0 +1,23 @@
+Fig. 1-S0734743X16303049,2,Typical blast and DIC set up and results from a blast test (30 kg TNT equivalent at 16 m). The DIC set up is shown (not to scale) (a); together with the pressure time trace (b) and the deflected profile of the glazing sample (c). The raw high speed images and DIC results are also shown at the same three time points as the deflected profiles (d)
+Fig. 2-S0734743X16303049,2,Typical out of plane reaction force results for a blast test
+Fig. 3-S0734743X16303049,2,Geometry of the 1.52 mm PVB thickness experimental samples used. The samples using other interlayer thicknesses were similar.
+Fig. 4-S0734743X16303049,2,Experimental set up for the delamination tests [17].
+Fig. 5-S0734743X16303049,2,Diagram showing the delamination process around the crack of the glass layers.
+Fig. 6-S0734743X16303049,2,Material model fit for the PVB.
+Fig. 7-S0734743X16303049,2,Low strain rate PVB model fit.
+Fig. 8-S0734743X16303049,2,Main dimensions and features of the single crack delamination models. The section detail also shows the mesh used.
+Fig. 9-S0734743X16303049,2,CZM stress displacement formulation assumed for the FEA model. The delamination energy is the area underneath the assumed curve.
+Fig. 10-S0734743X16303049,2,Peak stress against the strain rate from Rahul-Kumar et al. [13].
+Fig. 11-S0734743X16303049,2,Experimental images of the delamination tests showing the process delamination.
+Fig. 12-S0734743X16303049,2,Experimental force per unit width and strain against the overall deformation for the 0.01 m/s experiments.
+Fig. 13-S0734743X16303049,2,Experimental force per unit width and strain against the overall deformation for the 0.1 m/s experiments.
+Fig. 14-S0734743X16303049,2,Experimental force per unit width and strain against the overall deformation for the 1 m/s experiments.
+Fig. 15-S0734743X16303049,2,Experimental force per unit width and strain against the overall deformation for the 10 m/s experiments. The 1.52 mm results are shown up to 20 mm as the exact displacement was difficult to measure after this point due to glass failures; however; force results were collected up to approximately 40 mm displacement for the plateau stress calculation.
+Fig. 16-S0734743X16303049,2,Experimental test images showing the identified locations of the delamination fronts and glass edges.
+Fig. 17-S0734743X16303049,2,Single crack delamination model results for 0.1 m/s deformation speed and low rate PVB model.
+Fig. 18-S0734743X16303049,2,Progressive delamination of a single crack model deformed at 10 m/s with a low rate PVB model.
+Fig. 19-S0734743X16303049,2,FEA detail showing the delamination positions.
+Fig. 20-S0734743X16303049,2,Glass movement speed in the 10 m/s; 1.52 mm PVB thickness test.
+Fig. 21-S0734743X16303049,2,Delamination energies plotted against the rate of deformation. The deformation energies increase until 6.67 s−1; whilst they seem to be constant after this.
+Fig. 22-S0734743X16303049,2,Nominal rate of deformation during blast loading along a line cut through the centre of the window. The final point shows that the glass was close to its maximum deflection and its expansion speed reduced sharply.
+Fig. 23-S0734743X16303049,2,Image for discussion showing the strain rates developed in the material during the FEA analysis of the tests.

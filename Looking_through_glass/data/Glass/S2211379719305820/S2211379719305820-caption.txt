@@ -1,0 +1,19 @@
+Fig. 1-S2211379719305820,2,Simulation setup obtained from MCNPX Visual Editor.
+Fig. 2-S2211379719305820,2,Density for the investigated glass samples.
+Fig. 3-S2211379719305820,2,XRD of the studied glass samples.
+Fig. 4-S2211379719305820,2,XCOM mass attenuation coefficient (μm) value compared with XMuDat program and MCNPX code for investigated glass samples against photon energy.
+Fig. 5-S2211379719305820,2,Partial interaction coefficient and total mass attenuation coefficient for 30Bi2O3-40B2O3-20SiO2-9Na2O-1Fe2O3 glass sample as a function of photon energy.
+Fig. 6-S2211379719305820,2,Mass attenuation coefficient of G5 glass sample; OC; HSC and SSC concretes with photon energy.
+Fig. 7-S2211379719305820,2,Mass attenuation coefficient difference (Δ) between G5 glass sample and other glass samples GR1 [10]; GR2 [10]; GR3 [8]; GR4 [8] and GR5 [10] with photon energy.
+Fig. 8-S2211379719305820,2,Half value layer (HVL) against photon energy for investigated glass samples.
+Fig. 9-S2211379719305820,2,Half value layer (HVL) of G5 glass sample; OC; HSC and IlC concretes with photon energy.
+Fig. 10-S2211379719305820,2,Variation of effective atomic number values as a function of photon energy for glass samples.
+Fig. 11-S2211379719305820,2,Variation in effective atomic numbers with scattering angles at 100 keV.
+Fig. 12-S2211379719305820,2,Variations of the exposure buildup factors (EBF) with photon energy for 30Bi2O3-40B2O3-20SiO2-9Na2O-1Fe2O3 glass sample at different penetration depths.
+Fig. 13-S2211379719305820,2,Variations of the energy absorption buildup factors (EABF) with photon energy for 30Bi2O3-40B2O3-20SiO2-9Na2O-1Fe2O3 glass sample at different penetration depths.
+Fig. 14-S2211379719305820,2,Variation of the exposure buildup factors (EBF) with photon energy for glass samples at 15 mfp.
+Fig. 15-S2211379719305820,2,Variation of energy absorption buildup factors (EABF) with photon energy for glass samples at 15 mfp.
+Fig. 16-S2211379719305820,2,Fast neutron removal cross sections ΣR for the selected glass samples.
+Fig. 17-S2211379719305820,2,Fast neutron removal cross sections ΣR values for the selected glass samples compared with different concretes and glasses.
+Fig. 18-S2211379719305820,2,Fractal bond connectivity (d) as a function of Bi2O3 concentration.
+Fig. 19-S2211379719305820,2,Elastic modulus as a function of Bi2O3 concentration.

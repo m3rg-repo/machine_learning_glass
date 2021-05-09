@@ -1,0 +1,26 @@
+Fig. 1-S0020768317304067,2,Log–Normal distribution functions.
+Fig. 2-S0020768317304067,2,Schematically representation of σe and te.
+Fig. 3-S0020768317304067,2,Estimated values of σef for a range of critical flaw size.
+Fig. 4-S0020768317304067,2,Stress distribution at 1 kN load in N/m2.
+Fig. 5-S0020768317304067,2,Relationship of applied load to the time and uniaxial stress.
+Fig. 6-S0020768317304067,2,Relationship between equivalent 3 s stress and load.
+Fig. 7-S0020768317304067,2,Ranking of raw results of the simulated failure load for 20 sample size.
+Fig. 8-S0020768317304067,2,Flow chart of the simulation model.
+Fig. 9-S0020768317304067,2,Experimental setup for 270 mm × 270 mm × 5 mm size glazing panels.
+Fig. 10-S0020768317304067,2,Images of two broken specimens.
+Fig. 11-S0020768317304067,2,Comparison of probability plots of experimental results.
+Fig. 12-S0020768317304067,2,CPD with connecting line and distribution fit for loading rates of 6 mm/min and 600 mm/min.
+Fig. 13-S0020768317304067,2,Experimental setup for 600 mm × 600 mm × 5 mm size glazing panels.
+Fig. 14-S0020768317304067,2,Comparison of simulated failure loads based on different mean flaw size with experimental results.
+Fig. 15-S0020768317304067,2,Comparison of simulated failure loads with experimental results at a loading rate of 6 mm/min.
+Fig. 16-S0020768317304067,2,Histograms of failure loads obtained experimentally and using simulation model for loading rate of 6 mm/min.
+Fig. 17-S0020768317304067,2,Comparison of probability plots obtained by two distinct populations of flaws that co-exist on the glass pane.
+Fig. 18-S0020768317304067,2,Comparison of simulated failure loads with experimental results at a loading rate of 600 mm/min.
+Fig. 19-S0020768317304067,2,Spatial distribution of fracture initiated locations of 270 mm × 270 mm × 5 mm size panels.
+Fig. 20-S0020768317304067,2,Comparison of simulated failure loads with experimental results for 600 mm × 600 mm × 5 mm size glazing panels.
+Fig. 21-S0020768317304067,2,Comparison of CPD of two sizes glazing panels at 6 mm/min and 600 mm/min loading rates.
+Fig. 22-S0020768317304067,2,Spatial distribution of fracture initiated locations of 600 mm × 600 mm × 5 mm size panels.
+Fig. 23-S0020768317304067,2,Stress variation of glass panels on radial distance at 1 kN point load.
+Fig. 24-S0020768317304067,2,Comparison of simulated CPDs of two sizes glazing panels at 6 mm/min and 600 mm/min loading rates.
+Fig. 25-S0020768317304067,2,Simulated failure loads for 270 mm × 270 mm × 5 mm glass panels at different loading rates.
+Fig. 26-S0020768317304067,2,Simulated failure loads for 600 mm × 600 mm × 5 mm glass panels at different loading rates.

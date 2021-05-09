@@ -1,0 +1,16 @@
+Fig. 1-S0022309317304921,2,Dependence of the transition temperature Tg; molar volume Vm; Young's modulus E; volume density of bonding energy <U0/V0> and Poisson ratio ν on the AlF3 content (x) for the (100-x)NaPO3-xAlF3 glasses and on the Na2SO4 content (y; z) for the (80-y)NaPO3-20AlF3-yNa2SO4 and 70NaPO3-(30-z)AlF3-zNa2SO4 glasses respectively.
+Fig. 2-S0022309317304921,2,Dependence of the transition temperature Tg; molar volume Vm; Young's modulus E; volume density of bonding energy <U0/V0> and Poisson ratio ν on the SrSO4 content (x1; y1; z1) for the 80(MFn)-(20-x1)Sr(PO3)2-x1SrSO4; 85(MFn)-(15-y1)Sr(PO3)2-y1SrSO4 and 90(MFn)-(10-z1)Sr(PO3)2-z1SrSO4 glasses; respectively. For nominal compositions see Table 4.
+Fig. 3-S0022309317304921,2,Raman (a) and IR (b) spectra of NAPF glasses.
+Fig. 4-S0022309317304921,2,(a) 31P MAS NMR spectra of NAPF glasses. Spinning sidebands are indicated by asterisks. (b) 31P MAS NMR spectra deconvolutions.
+Fig. 5-S0022309317304921,2,31P MAS-NMR spectrum of 60NaPO3–40AlF3 (A5). Dash curves indicate the deconvolution into individual Gaussian components. Q0; Q1 and Q2 are referred to phosphate groups with NBOs coordinated by Na+ only. Q1m and Q2m are denoted to phosphate groups with NBOs linked to both Na+ and Al3+ ions.
+Fig. 6-S0022309317304921,2,Raman (a) and IR (b) spectra of NAPFS1 glasses.
+Fig. 7-S0022309317304921,2,31P MAS NMR spectra of NAPFS1 glasses. Spinning side-bands are marked with asterisks.
+Fig. 8-S0022309317304921,2,Raman (a) and IR (b) spectra of NAPFS2 glasses.
+Fig. 9-S0022309317304921,2,31P MAS NMR spectra of NAPFS2 glasses.
+Fig. 10-S0022309317304921,2,Raman (a); depolarized (VH) Raman (b); and IR (c) spectra of FPS20 glasses. For nominal composition see Table 4.
+Fig. 11-S0022309317304921,2,(a) 31P MAS NMR spectra of FPS20 glasses. Spinning sidebands are indicated by asterisks. (b) 31P MAS NMR spectra deconvolutions. For nominal composition see Table 4.
+Fig. 12-S0022309317304921,2,31P MAS-NMR spectrum of glass D1 (x=0). Dashed curves indicate the deconvolution into individual Gaussian components. Q0 and Q1 are referred to phosphate groups with NBOs coordinated by M2+ ions only (M=Mg; Ca and Sr). Q0m; Q1m and Q2m refer to phosphate groups with NBOs linked to both M2+ and Al3+ ions. For nominal composition see Table 4.
+Fig. 13-S0022309317304921,2,Stokes-side of reduced low-frequency Raman spectra of the FPS10 sub-series after subtraction of quasi-elastic scattering (QES) contribution. The solid line represents a log-normal fit used to estimate the Boson peak's frequency. For nominal compositions see Table 4.
+Fig. 14-S0022309317304921,2,(a) Variations of the boson peak frequency ωBP as a function of SrSO4 content (x1; y1; z1) in FPS20; FPS15 and in FPS10 series respectively. (b) Variations of the Boson peak frequency ωBP as a function of AlF3 content (x) in NAPF; and Na2SO4 content (y; z) in NAPFS1 and NAPFS2 respectively. For nominal compositions see Tables 1 and 4.
+Fig. 15-S0022309317304921,2,Model of the structure of fluoro-sulfo-phosphate multi-anion glasses. The inset schematically depicts chemical heterogeneity in the three types of glass. The gray balls depict cation species.
+Fig. 16-S0022309317304921,2,Model of the structural vicinity of a phosphate Q0 group and a sulfate anion (see text for details).

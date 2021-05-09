@@ -1,0 +1,11 @@
+Fig. 1-S0167273816302958,2,Schematic diagram of sample preparation methods: (a) ion-exchange method using natLiClO4/PC electrolyte and (b) mask method. The surface concentration of 6Li and 7Li was measured by secondary ion mass spectroscopy line analysis.
+Fig. 2-S0167273816302958,2,Morphology of an a-6Li3PO4 thin film observed by FE-SEM; (a) surface and (b) cross-section. The thin film was deposited on a Pt/Cr/SiO2 substrate.
+Fig. 3-S0167273816302958,2,Isotope mappings of 6Li/7Li for a-Li3PO4 thin films prepared by ion-exchange method; (a) as-prepared and (b) annealed at 120°C for 24h. The scan range was 200×200μm2.
+Fig. 4-S0167273816302958,2,Surface 6Li concentration ratio in a-Li3PO4 thin films; measured by secondary ion mass spectroscopy line analysis. The diffusion couples were prepared by the ion-exchange method. The annealing temperatures were (a) 80°C; (b) 100°C; (c) 140°C; and (d) 160°C for 24h. The solid line shows the fitting curve obtained by using Eq. (1).
+Fig. 5-S0167273816302958,2,Results of numerical simulations. (a) Initial arrangement of the model of the diffusion couple. Three-dimensional plot of 7Li concentration vs. thickness and lateral distance after (b) 1000s; (c) 3600s; and (d) 24h. The diffusion coefficient D was set to 10−12cm2/s.
+Fig. 6-S0167273816302958,2,Time evolution of 6Li surface concentration estimated from the numerical analysis. The model is shown in Fig. 5(a). The solid line represents the concentration obtained from the approximate Eqs. (3) and (4).
+Fig. 7-S0167273816302958,2,Surface 6Li concentration ratio measured by secondary ion mass spectroscopy line analysis. The diffusion couples were prepared by the mask method. The annealing temperatures and durations were (a) 25°C for 792h; (b) 60°C for 165h; (c) 100°C for 96h; and (d) 160°C for 12h. The solid line shows the fitting curve obtained by using Eqs. (5) and (6).
+Fig. 8-S0167273816302958,2,Arrhenius plot of the lithium diffusion coefficient DLi⁎ in a-Li3PO4 thin films.
+Fig. 9-S0167273816302958,2,Temperature dependence of the ionic conductivity σLi+ in a-Li3PO4 thin films.
+Fig. 10-S0167273816302958,2,Comparison between lithium diffusion coefficients; determined by secondary ion mass spectroscopy experiments; and conductivity diffusion coefficient.
+Fig. 11-S0167273816302958,2,Haven ratio; HR; as a function of the temperature.
