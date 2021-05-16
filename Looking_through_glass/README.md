@@ -19,7 +19,7 @@ source glass/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
-### For downloading chemdataextractor files and models, run
+### For downloading ChemDataExtractor files and models, run
 ```sh
 cde data download
 ```
