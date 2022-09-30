@@ -12,7 +12,7 @@ Cython==0.29.15
 DAWG==0.8.0
 gensim==4.0.1
 idna==2.10
-joblib==1.0.1
+joblib==1.2.0
 kiwisolver==1.3.1
 lxml==4.6.3
 matplotlib==3.4.1
